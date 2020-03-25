@@ -1,0 +1,5 @@
+[26-Feb-2020 10:56:30 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/adventurewithin/functions.php on line 53
+[26-Feb-2020 05:12:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function nocache_headers() in /home/glob8523/public_html/marla.fishbane.net/wp-admin/admin.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/glob8523/public_html/marla.fishbane.net/wp-admin/admin.php on line 36
