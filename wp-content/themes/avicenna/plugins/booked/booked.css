@@ -1,0 +1,19 @@
+/*!* Calendar *!*/
+table.booked-calendar,
+table.booked-calendar tr th,
+table.booked-calendar tr td {
+	border: 0 !important;
+}
+body .booked-calendar-wrap .booked-appt-list .timeslot .timeslot-people {
+	height: 92px;
+}
+body .booked-calendar-wrap .booked-appt-list .timeslot.timeslot-count-hidden .timeslot-people {
+	height: 82px;
+}
+body .booked-form input[type="submit"], body .booked-form button {
+	margin: 0 10px 10px 0;
+}
+body table.booked-calendar th .monthName a {
+	top: -2px;
+	color: #fff;
+}

@@ -1,0 +1,61 @@
+Version 1.2.2
+    	Added:
+    		- Compatibility with WP 5.2.2
+    		- Compatibility with PHP7.3
+
+        Fixed:
+            - Update plugins to their latest versions
+
+        Changed:
+    		- Update demo data
+
+
+Version 1.2.1
+    	Added:
+    		- Compatibility with WP 5.1.1
+    		- Compatibility with PHP7.2
+            - Contact Form 7
+
+        Fixed:
+            - Update plugins to their latest versions
+            - Improve theme styles
+            - Update scripts  libraries
+
+        Changed:
+    		- Update demo data
+
+
+Version 1.2.0
+    Added:
+            - WP GDPR Compliance plugin
+            - Alert to Demo data installation
+            - Privacy Policy page
+            - Import Strong Testimonials Demo Data
+
+    Fixed:
+            - Compatibility with WP 4.9.8
+            - Update plugins to their latest versions
+            - Improve theme styles
+            - Button shortcode (button aligment and "open in new window" option)
+            - Update documentation
+            - Anchor menu
+
+    Changed:
+            - Update default contact forms to make them GDPR-compliant
+            - Move Importer to TRX Addons plugin
+            - Update demo data
+
+Version 1.1
+	- Plugins are updated to their latest versions;
+    - WordPress 4.9.7 support is added;
+    - Checkboxes to default contact forms are added;
+    - Styles are improved;
+
+Version 1.0
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+[10-Feb-2020 10:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_value_from_safe() in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/widgets/video/video.php:143
+Stack trace:
+#0 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(325): trx_addons_sc_widget_video(Array, '', 'trx_widget_vide...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(trx_wi...', 'do_shortcode_ta...', '[trx_widget_vid...')
+#3 /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/shortcodes/popup/popup.php(61): do_shortcode('[trx_widget_vid...')
+#4 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(325): trx_addons_sc_popup(Array, '[trx_widget_vid...', 'trx_sc_popup')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?) in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/widgets/video/video.php on line 143
+[10-Feb-2020 10:54:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_value_from_safe() in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/widgets/video/video.php:143
+Stack trace:
+#0 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(325): trx_addons_sc_widget_video(Array, '', 'trx_widget_vide...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(trx_wi...', 'do_shortcode_ta...', '[trx_widget_vid...')
+#3 /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/shortcodes/popup/popup.php(61): do_shortcode('[trx_widget_vid...')
+#4 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(325): trx_addons_sc_popup(Array, '[trx_widget_vid...', 'trx_sc_popup')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?) in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/widgets/video/video.php on line 143
+[10-Feb-2020 10:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_value_from_safe() in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/widgets/video/video.php:143
+Stack trace:
+#0 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(325): trx_addons_sc_widget_video(Array, '', 'trx_widget_vide...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(trx_wi...', 'do_shortcode_ta...', '[trx_widget_vid...')
+#3 /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/shortcodes/popup/popup.php(61): do_shortcode('[trx_widget_vid...')
+#4 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(325): trx_addons_sc_popup(Array, '[trx_widget_vid...', 'trx_sc_popup')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?) in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/widgets/video/video.php on line 143
+[10-Feb-2020 10:59:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_value_from_safe() in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/widgets/video/video.php:143
+Stack trace:
+#0 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(325): trx_addons_sc_widget_video(Array, '', 'trx_widget_vide...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(trx_wi...', 'do_shortcode_ta...', '[trx_widget_vid...')
+#3 /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/shortcodes/popup/popup.php(61): do_shortcode('[trx_widget_vid...')
+#4 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(325): trx_addons_sc_popup(Array, '[trx_widget_vid...', 'trx_sc_popup')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?) in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/widgets/video/video.php on line 143
+[10-Feb-2020 11:02:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_value_from_safe() in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/widgets/video/video.php:143
+Stack trace:
+#0 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(325): trx_addons_sc_widget_video(Array, '', 'trx_widget_vide...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(trx_wi...', 'do_shortcode_ta...', '[trx_widget_vid...')
+#3 /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/shortcodes/popup/popup.php(61): do_shortcode('[trx_widget_vid...')
+#4 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(325): trx_addons_sc_popup(Array, '[trx_widget_vid...', 'trx_sc_popup')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/glob8523/public_html/marla.fishbane.net/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?) in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/widgets/video/video.php on line 143
+[26-Feb-2020 10:56:04 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/adventurewithin/functions.php on line 53
+[02-Mar-2020 05:11:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/adventurewithin/functions.php:101) in /home/glob8523/public_html/marla.fishbane.net/wp-includes/pluggable.php on line 932
+[02-Mar-2020 05:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function edd_get_option() in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/themes_market/edd.themes_market.php:106
+Stack trace:
+#0 /home/glob8523/public_html/marla.fishbane.net/wp-includes/class-wp-hook.php(288): trx_addons_edd_themes_market_redirect_subscribers('https://marla.f...', 'https://marla.f...', Object(WP_User))
+#1 /home/glob8523/public_html/marla.fishbane.net/wp-includes/plugin.php(206): WP_Hook->apply_filters('https://marla.f...', Array)
+#2 /home/glob8523/public_html/marla.fishbane.net/wp-login.php(1223): apply_filters('login_redirect', 'https://marla.f...', 'https://marla.f...', Object(WP_User))
+#3 {main}
+  thrown in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/themes_market/edd.themes_market.php on line 106
+[02-Mar-2020 05:13:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function edd_get_option() in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/themes_market/edd.themes_market.php:106
+Stack trace:
+#0 /home/glob8523/public_html/marla.fishbane.net/wp-includes/class-wp-hook.php(288): trx_addons_edd_themes_market_redirect_subscribers('https://marla.f...', 'https://marla.f...', Object(WP_User))
+#1 /home/glob8523/public_html/marla.fishbane.net/wp-includes/plugin.php(206): WP_Hook->apply_filters('https://marla.f...', Array)
+#2 /home/glob8523/public_html/marla.fishbane.net/wp-login.php(1223): apply_filters('login_redirect', 'https://marla.f...', 'https://marla.f...', Object(WP_User))
+#3 {main}
+  thrown in /home/glob8523/public_html/marla.fishbane.net/wp-content/plugins/trx_addons/components/themes_market/edd.themes_market.php on line 106

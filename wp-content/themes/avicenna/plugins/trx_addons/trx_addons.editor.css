@@ -1,0 +1,67 @@
+/* Theme-specific rules for the WP Editor */
+
+.trx_addons_dropcap {
+    font-size: 2.889em;
+    font-weight: 700;
+    margin: 0.11em 0.4em 0 0;
+    width: 1.25em;
+    height: 1.25em;
+    line-height: 1.25em;
+    -webkit-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+}
+
+ol[class*="trx_addons_list"] {
+    counter-reset: num;
+    padding-left: 1.4em;
+}
+ol[class*="trx_addons_list_custom"] > li {
+    list-style: none;
+    position: relative;
+}
+ul li + li,
+ol li + li {
+    margin-top: 5px;
+}
+ol[class*="trx_addons_list_custom"] > li:before {
+    counter-increment: num;
+    content: counter(num)'.';
+    display: inline-block;
+    text-align: left;
+    position: absolute;
+    left: -1.5em;
+    top: -0.05em;
+    font-weight: 700;
+    font-size: 1em;
+}
+ul[class*="trx_addons_list_dot"] > li:before {
+    font-size: 1.4em;
+    top: -0.25em;
+    left: -0.85em;
+}
+ul[class*="trx_addons_list_leaf"] > li:before {
+    font-family: fontello;
+    content: '\e94e';
+    font-size: 0.9em;
+    left: -2em;
+}
+ul[class*="trx_addons_list"].trx_addons_list_leaf {
+    padding-left: 1.8em;
+}
+
+.trx_addons_list_parameters > li > strong {
+    width: 43%;
+    font-size: 1.333em;
+    font-weight: 700;
+    line-height: 1.34;
+    text-align: left;
+}
+ul.trx_addons_list_parameters > li + li {
+    border-top: 0;
+    padding-top: 0;
+    margin-top: 0;
+}
+.trx_addons_list_parameters > li {
+    line-height: 1.8;
+}

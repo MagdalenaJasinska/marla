@@ -1,0 +1,67 @@
+/*
+Theme Name: Avicenna Child
+Theme URI: http://avicenna.ancorathemes.com/
+Description: Avicenna - excellent WordPress theme with many different blog and header layouts
+Author: AncoraThemes
+Author URI: http://ancorathemes.com/
+Template: avicenna
+Version: 1.2.2
+EV: 1.0.38
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+Text Domain: avicenna
+*/
+
+@font-face {
+	font-family: Tahoma_Regular;
+	src: url('./assets/fonts/Tahoma-Font/Tahoma_Regular_font.ttf');
+}
+@font-face {
+	font-family: TAHOMA_light;
+	src: url(./assets/fonts/Tahoma-Font/TAHOMA_light.TTF);
+}
+@font-face {
+	font-family: TAHOMA_bold;
+	src: url(./assets/fonts/Tahoma-Font/TAHOMA_bold.TTF);
+}
+@font-face {
+	font-family: TAHOMA_bolder;
+	src: url(./assets/fonts/Tahoma-Font/TAHOMA_bolder);
+}
+@font-face {
+	font-family: Calibri_Bold_Italic;
+	src: url(./assets/fonts/calibri_font/Calibri_Bold_Italic.ttf);
+}
+@font-face {
+	font-family: Calibri_Bold;
+	src: url(./assets/fonts/calibri_font/Calibri_Bold.TTF);
+}
+@font-face {
+	font-family: Calibri_Italic;
+	src: url(./assets/fonts/calibri_font/Calibri_Italic.ttf);
+}
+@font-face {
+	font-family: Calibri_Light_Italic;
+	src: url(./assets/fonts/calibri_font/Calibri_Light_Italic.ttf);
+}
+@font-face {
+	font-family: Calibri_Light;
+	src: url(./assets/fonts/calibri_font/Calibri_Light.ttf);
+}
+@font-face {
+	font-family: Calibri_Regular;
+	src: url(./assets/fonts/calibri_font/Calibri_Regular.ttf);
+}
+
+body { font-family: Calibri_Bold; }
+body, .entry-title a, :root .has-primary-color{ color: #000000;}
+.entry-content{ font-size: 18px;}
+.entry-content p{ font-family: Calibri_Regular; color: #000;}
+.adv-content{ width: 100% !important; padding: 0rem 90px 0px 90px !important;}
+.adv-content-all{ width: 100% !important; padding: 0rem 20px 0px 20px !important;}
+.adv-post-single { margin-top: 20px; }
+.top_panel{ margin-bottom: 0px !important; }
+.sc_layouts_row_delimiter{ border-bottom: 0px !important; }
+.header-menu-navigate{ padding-top: 0px; padding-bottom: 0px;}
+.adv-post-single b, .adv-post-single strong{ color: #000; }
