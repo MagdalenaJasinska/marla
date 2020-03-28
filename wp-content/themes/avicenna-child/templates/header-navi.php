@@ -9,7 +9,7 @@
 ?>
 <div class="head-img-sec">
 	<center>
-		<img src="<?php echo content_url('/uploads/2020/02/rsz_gold_logo.jpg');?>">
+		<img class="head-img-logo" src="<?php echo content_url('/uploads/2020/02/rsz_gold_logo.jpg');?>">
 	</center>
 </div>
 <div class="top_panel_navi sc_layouts_row sc_layouts_row_type_compact sc_layouts_row_fixed sc_layouts_row_fixed_always sc_layouts_row_delimiter<?php
@@ -41,7 +41,7 @@
 						<?php
 						// Main menu
 						$avicenna_menu_main = avicenna_get_nav_menu(array(
-							'location' => 'menu_main', 
+							'location' => 'menu_main',
 							'class' => 'sc_layouts_menu sc_layouts_menu_default sc_layouts_hide_on_mobile'
 							)
 						);
@@ -61,7 +61,7 @@
 							</a>
 						</div>
 					</div><?php
-					
+
 					/*if (avicenna_exists_trx_addons()) {
 						?><div class="sc_layouts_item"><?php
 							// Display search field

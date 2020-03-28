@@ -2219,7 +2219,7 @@ function responsivepreviewSliderAdmin(){
    }
    
    function print_responsive_thumbnail_slider_func(){
-       
+
        $wpcurrentdir=dirname(__FILE__);
        $wpcurrentdir=str_replace("\\","/",$wpcurrentdir);
        $settings=get_option('responsive_thumbnail_slider_settings');
@@ -2255,7 +2255,7 @@ function responsivepreviewSliderAdmin(){
                       global $wpdb;
                       $imageheight=$settings['imageheight'];
                       $imagewidth=$settings['imagewidth'];
-                      $query="SELECT * FROM ".$wpdb->prefix."responsive_thumbnail_slider order by createdon desc";
+                      $query="SELECT * FROM ".$wpdb->prefix."responsive_thumbnail_slider";
                       $rows=$wpdb->get_results($query,'ARRAY_A');
                     
                     if(count($rows) > 0){

@@ -29,7 +29,6 @@
 .bx-wrapper img {
     max-width: 100% ;
     display: block ;
-    border-radius:5px ;
 }
 
 /** THEME
@@ -122,6 +121,7 @@
     height: 32px ;
     text-indent: -9999px ;
     z-index: 9999 ;
+    display: none;
 }
 
 .bx-wrapper .bx-controls-direction a.disabled {

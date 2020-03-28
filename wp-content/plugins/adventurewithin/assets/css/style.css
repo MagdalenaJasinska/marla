@@ -2,28 +2,30 @@
 .adv-feature-media-sec img{ width: 100% !important; height: auto !important; }
 .adv-pt-65{ padding-top: 65px; }
 .adv-pt-40{ padding-top: 40px; }
-.adv-pt-15{ padding-top: 15px; }
+.adv-pt-15{ padding-top: 65px; }
 .adv-ml-5{margin-left: 5px;}
 .adv-mb-15{ margin-bottom: 15px; }
 .adv-mb-20{ margin-bottom: 20px; }
 .adv-mt-80{ margin-top: 80px; }
 .adv-mt-40{ margin-top: 40px; }
 .adv-mt-15{ margin-top: 15px; }
-.head-img-sec{ height: 75px; }
-.head-img-sec img{ width: 60%; height: 100px;}
+.come_explore_home_page{ width: 49%; display: block; margin: 0 auto; }
+.aboutpage_signature {width: 15%; margin: 0 auto 0 0;}
+.head-img-sec{ height: 170px; }
+.head-img-sec img{ width: 95%;.sc_layouts_menu_nav > li > a height: 150px; margin-bottom: 20px;  padding-left: 7.125vw; }
 .dark-sec{ color: #000 !important; }
 .adv-navigation-sec ul{ justify-content: center !important; /*display: flex;*/}
-.adv-navigation-sec ul li a, .adv-navigation-sec ul li ul.sub-menu li a{ font-family: Calibri_Regular; font-size: 19px; letter-spacing: 3px; color: #000 !important;}
+.adv-navigation-sec ul li a, .adv-navigation-sec ul li ul.sub-menu li a{ font-family: Calibri_Regular; font-size: 2.2rem; letter-spacing: 3px; color: #000 !important;}
 
-.featured-media img{ width: 50%; height: 300px; }
-.featured-media-sec img{ width: 100%; height: 450px; }
-.featured-media-mid img{ width: 65%; height: 450px; }
+.featured-media img{ width: 100%; max-width: 508px; height: 301px; }
+.featured-media-sec img{ width: 100%; max-width: 508px; height: 301px; }
+.featured-media-mid img{ width: 57%; height: 301px; margin-bottom: 2rem; }
 .img-title{ font-family: Calibri_Regular; font-size: 17px; text-align: center; font-weight: 100; margin: 0.5rem auto 2.5rem !important; letter-spacing: 3px;}
 .middle-box-img img{ width: auto; height: 100px; display: block; margin: auto; }
 .front-post-inner{ padding-top: 0px !important; }
-.testimonal-box-img img{width: auto; height: 50px; display: block; margin: auto;}
+.testimonal-box-img img{width: auto; height: 50px; display: block; margin: auto auto 1.5rem auto; }
 
-.middle-full-img img{width: 70%; height: 400px; display: block; margin: auto;}
+.middle-full-img img{ width: 57%; height: 301px; display: block; margin: 7rem auto 2rem auto; }
 .adv-navigation-sec ul li ul.sub-menu{background-color: #fff; width: 21rem;}
 .adv-navigation-sec ul li span.icon{ color: #000!important; }
 .adv-box-contact{width: 100% !important; margin-bottom: 0px;}
@@ -60,6 +62,7 @@
 .adv-col-6{ width: 50%; float: left; padding-left: 10px; padding-right: 10px; }
 .adv-col-5{ width: 41.66666667%; float: left; padding-left: 10px; padding-right: 10px; }
 .adv-col-4{ width: 33.33333333%; float: left; padding-left: 10px; padding-right: 10px; }
+
 .adv-col-3{ width: 25%; float: left; padding-left: 10px; padding-right: 10px; }
 .adv-col-2{ width: 16.66666667%; float: left; padding-left: 10px; padding-right: 10px; }
 .adv-col-1{ width: 8.33333333%; float: left; padding-left: 10px; padding-right: 10px; }
@@ -115,3 +118,6 @@
 .contact-form-content .wpcf7-response-output{ margin-top: 27px; }
 #send_comment, .adv-btn{border-radius: 0px !important; font-family: Calibri_Regular !important; background-color: #a3b8b3 !important;}
 .personal-profile-sec input[type="text"], .personal-profile-se input[type="email"], .personal-profile-se input{line-height: 1rem !important; margin-top: 18px; padding: 0.2rem 1rem !important;}
+
+body.home .responsiveSlider img { height: 189px; }
+

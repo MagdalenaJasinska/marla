@@ -215,10 +215,10 @@
 	}
 
 	.sc_layouts_menu_nav > li.menu-item-has-children > a {
-		padding-right: 1em;
+		padding-right: 0.4em;
 	}
 	.sc_layouts_menu_nav > li > a {
-		padding: 1em;
+		padding:  0 0.4em 0.5em 0.4em;
 	}
 	.sc_layouts_column .sc_layouts_item {
 		margin-right: 1.5em;

@@ -57,7 +57,7 @@ add_shortcode('adventure_spotlight', 'get_adventure_spotlight_page');
 function add_home_page_content(){ 
 	$content_html = '';
 	$content_html .= '<div class="main-box-content">';
-	$content_html .= '<h6 class="img-title">Energy healinng For Your Body Mind And Spirit</h6>';
+	$content_html .= '<img class="come_explore_home_page" src="http://marla.loc/wp-content/uploads/2020/02/come_explore_home_page.jpg">';
 	$content_html .= ''.do_shortcode("[print_responsive_thumbnail_slider]").'';
 	$content_html .= '<div class="middle-box-img">';
 	$content_html .= '<img src="'.content_url('/uploads/2020/02/balance.png').'">';
