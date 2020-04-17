@@ -57,7 +57,7 @@ add_shortcode('adventure_spotlight', 'get_adventure_spotlight_page');
 function add_home_page_content(){ 
 	$content_html = '';
 	$content_html .= '<div class="main-box-content">';
-	$content_html .= '<img class="come_explore_home_page" src="https://marla.fisbane.net/wp-content/uploads/2020/02/come_explore_home_page.jpg">';
+	$content_html .= '<img class="come_explore_home_page" src="https://marla.fishbane.net/wp-content/uploads/2020/02/come_explore_home_page.jpg">';
 	$content_html .= ''.do_shortcode("[print_responsive_thumbnail_slider]").'';
 	$content_html .= '<div class="middle-box-img">';
 	$content_html .= '<img src="'.content_url('/uploads/2020/02/balance.png').'">';
@@ -224,7 +224,7 @@ function get_personal_profile_data($user_id){
 
 //Add Css And Js
 function add_css_and_scripts() {
-    wp_register_style( 'adventure-style', plugins_url('assets/css/style.css', __FILE__), array(), null, 'all'  );
+    wp_register_style( 'adventure-style', plugins_url('assets/css/style.css?v=10', __FILE__), array(), null, 'all'  );
 	wp_enqueue_style( 'adventure-style' );
     
     wp_register_script( 'adventure-swfobject', plugins_url('assets/media/swfobject/swfobject/src/swfobject.js', __FILE__), array( 'jquery' ), 'all' );

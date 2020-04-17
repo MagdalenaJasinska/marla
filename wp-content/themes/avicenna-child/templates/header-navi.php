@@ -9,7 +9,7 @@
 ?>
 <div class="head-img-sec">
 	<center>
-		<img class="head-img-logo" src="<?php echo content_url('/uploads/2020/02/rsz_gold_logo.jpg');?>">
+		<img class="head-img-logo" src="<?php echo content_url('/uploads/2020/02/rsz_gold_logo.jpg?v=5');?>">
 	</center>
 </div>
 <div class="top_panel_navi sc_layouts_row sc_layouts_row_type_compact sc_layouts_row_fixed sc_layouts_row_fixed_always sc_layouts_row_delimiter<?php
