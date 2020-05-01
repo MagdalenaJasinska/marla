@@ -137,9 +137,6 @@ body.home .responsiveSlider img { height: 189px; }
     padding-top: 8px;
     height: 50px;
 }
-.adv-col-9.adv-media-right-sec .mejs-container.mejs-container-keyboard-inactive.mejs-audio {
-    width: 70%!important;
-}
 
 .image-navigation .nav-previous {
     display: none;
