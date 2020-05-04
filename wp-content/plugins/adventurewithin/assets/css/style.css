@@ -141,7 +141,6 @@ body.home .responsiveSlider img { height: 189px; }
 .image-navigation .nav-previous {
     display: none;
 }
-
 .image-navigation .nav-next {
     display: none;
 }
@@ -179,4 +178,11 @@ body.home .responsiveSlider img { height: 189px; }
 .actors_testimonials {
   text-align: justify;
     margin: 0px 8.2rem;
+}
+
+.postid-767 .comments_wrap {
+    display: none;
+}
+.post-783 .post_content.entry-content {
+    text-align: justify;
 }
