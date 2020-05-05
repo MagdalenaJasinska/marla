@@ -23,6 +23,7 @@
 		<div class="adv-col-9 adv-media-right-sec">
 			<p><strong>"Awaking Matters with Cynthia Slon"/ BBS Radio <a class="adv-link" href="https://bbsradio.com/">www.bbsradio.com</a></strong></p>
 			<p>Marla Phillips is interviewed by Cynthia Slon on all matter of energy healing and beyond.</p>
+			 <audio src="<?php echo plugins_url('adventurewithin/assets/media/Awakening-Matters-bbs-interview-04-29-2013.m4a');?>" controls></audio>
 			</br>
 		</div>
 	</div>
