@@ -27,10 +27,9 @@
 .adv-box-contact{width: 100% !important; margin-bottom: 0px;}
 .adv-box-contact .wpcf7-response-output, .contact-form-content .wpcf7-response-output{ width: 70%; text-align: center; margin: auto;}
 .contact-form-content{ width: 100% !important; margin-bottom: 0px; /*max-height: 355px;*/}
-.contact-box{ width: 75% !important; text-align: center; margin: auto;}
-.contact-left-box, .contact-right-box{ width: 48%; float: left; margin-bottom: 15px; }
-.contact-left-box{ padding-right: 7.5px; }
-.contact-right-box{ padding-left: 7.5px; }
+.contact-box{ width: 95% !important; text-align: center; margin: auto;}
+.contact-left-box, .contact-right-box{ width: 49.5%; float: left; margin-bottom: 15px; }
+.contact-right-box{ float: right; }
 .contact-box input[type="text"], .contact-box input[type="email"], .adv-content-sec input{ padding: 1rem 1.8rem !important; background-color: #fff !important; border-radius: 0px !important;}
 .adv-content-sec input{ width: 100%; height: auto !important; font-family: Calibri_Regular !important;}
 .adv-content-sec input[type="checkbox"]{ width: auto; position: relative; top: 13px;}
@@ -187,11 +186,59 @@ body.home .responsiveSlider img { height: 189px; }
     text-align: center;
     padding: 0 5px 5px 5px;
 }
-
 #post-794 .middle-full-img img {
     margin: 3rem auto 2rem auto;
 }
-
 #post-767 .service_price {
     padding-top: 10px;
+}
+#menu-item-802 {
+   width: 100%;
+    color: black;
+}
+#post-801 {
+    width: 70%;
+    text-align: justify;
+    margin: 20px auto 0 auto;}
+
+@media (max-width: 768px) {
+    #post-801 {
+        width: 83%;
+    }
+}
+@media (max-width: 639px) {
+    #post-801 {
+        width: 100%;
+    }
+}
+#post-801 p { margin-bottom: 0.5rem; }
+@media (max-width: 767px) {
+    #post-801 p {
+        font-size: 1.8rem;
+    }
+}
+
+#post-801 .contactpage_inf {
+    text-align: center;
+    font-size: 1.8rem;
+}
+.contactpage_img2 {
+    text-align: center;
+}
+.contactpage_img2 img{
+    max-width: 54%;
+}
+#post-801 .contact-box {
+    margin-top: 1.5rem;
+    background-color: #f5f5f0;
+    border: 5px solid #f5f5f0;
+}
+.page-id-801 .featured-media-sec img {
+    height: unset;
+}
+
+@media (max-width: 767px) {
+    .page-id-801 .content_wrap{
+        width: 97% !important;
+    }
 }
